@@ -1,4 +1,4 @@
-# Generate CryptoPunks with GAN
+# Generate CryptoPunks with GPT-2
 
 ## Blog
 

@@ -1,1 +1,13 @@
-# Generate-CryptoPunks-with-GPT-2
+# Generate CryptoPunks with GAN
+
+## Blog
+
+[Medium Blog]()
+
+## Introduction
+
+## Data Source
+
+## Modeling
+
+## Result
